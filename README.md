@@ -33,3 +33,4 @@ netflix-clone/
 ├── script.js
 └── /images
 
+![netflix.png](https://github.com/Shwta23/Netflix-clone/blob/main/assets/images/netflix.png)
